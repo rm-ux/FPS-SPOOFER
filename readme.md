@@ -57,5 +57,5 @@ This module is for educational and testing purposes only. Use at your own risk. 
 
 ## Contacts
 
-[Telegram Channel](t.me/rmuxnet)
-[Telegram](t.me/mx7111)
+- [Telegram Channel](https://t.me/rmuxnet)
+- [Telegram](https://t.me/mx7111)
