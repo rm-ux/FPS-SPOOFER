@@ -55,6 +55,7 @@ Once installed and rebooted, your device will be identified as a **Samsung Galax
 
 This module is for educational and testing purposes only. Use at your own risk. Modifying system files can cause instability or unexpected behavior. Always back up your data before making changes.
 
-## License
+## Contacts
 
-[MIT License](LICENSE)
+[Telegram Channel](t.me/rmuxnet)
+[Telegram](t.me/mx7111)
